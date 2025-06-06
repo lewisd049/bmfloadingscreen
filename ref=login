@@ -1,0 +1,19 @@
+<!-- login-loading.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Loading Login</title>
+    <script>
+      setTimeout(function () {
+        window.location.href = "https://sites.google.com/view/beemusicfinder/login";
+      }, 4300);
+    </script>
+  </head>
+  <body>
+    <div style="text-align:center; margin-top:20%;">
+      <img src="https://i.imgur.com/gjYAIxe.gif" width="100">
+      <h2>Loading Login...</h2>
+    </div>
+  </body>
+</html>
